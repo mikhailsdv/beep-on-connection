@@ -13,10 +13,10 @@
 ```
 06.01.2022 17:57:18 No connection
 06.01.2022 17:57:24 No connection
-12.01.2022 17:57:30 Connected!
-12.01.2022 17:57:35 Connected!
+06.01.2022 17:57:30 Connected!
+06.01.2022 17:57:35 Connected!
 06.01.2022 17:57:40 No connection
-12.01.2022 17:57:46 Connected!
+06.01.2022 17:57:46 Connected!
 ```
 
 ## Фидбэк
