@@ -19,9 +19,7 @@ let isConnected = false
 		await delay(3000)
 		loop()
 	}
-	const req = https.get("https://google.com", res => {
-		onSucces()
-	})
+	const req = https.get("https://google.com", onSucces)
 	req.on("error", onError)
 	req.end()
 })()
